@@ -41,7 +41,7 @@ function App() {
     <section className="flex justify-center my-24">
       <div className="w-5/6 h-auto rounded-lg bg-gray-600 p-12 md:w-1/2 md:my-32">
         <div className="text-center">
-          <h1 className="text-3xl mb-7 font-medium">Password Generator</h1>
+          <h1 className="text-3xl mb-7 font-medium text-white">Password Generator</h1>
           <input
             type="text"
             value={password}
